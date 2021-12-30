@@ -1,0 +1,9 @@
+# Extensions to not include in repo
+*.o
+*.a
+*.out
+*.pvt
+point2_unittest
+gtest_main
+cluster
+
